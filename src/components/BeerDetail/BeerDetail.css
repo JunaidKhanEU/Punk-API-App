@@ -1,0 +1,12 @@
+.ui.card.detail {
+
+  margin: 0.5rem auto;
+  
+  
+}
+.ui.card.detail img{
+
+  height: 450px;
+  width: 200px;
+  overflow: hidden;
+}
