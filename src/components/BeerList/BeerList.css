@@ -1,0 +1,20 @@
+.ui.card:first-child {
+       margin: 1em 0;
+}
+
+.ui.card:last-child {
+    margin-bottom:1em;
+}
+
+.ui.card{
+  text-align: center;
+  height: 30rem;
+
+}
+.ui img {
+  min-height: 136px;
+}
+
+.ui.card>.content>.header{
+  color: aliceblue;
+}
