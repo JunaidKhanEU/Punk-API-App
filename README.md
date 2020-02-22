@@ -9,6 +9,9 @@ In the project directory, you can run:
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
+## live APP
+https://punkapp.netlify.com/
+
 ## challange was to create Beer APP using Punk Beer API, the main task was to use React and using components to divie the app into small chunks
 
 ## main features
